@@ -4,6 +4,11 @@ a simple todo app build with html css and javascript
 
 ![image](https://github.com/AlkaloidWells/TodoApp/assets/55930366/75e7d532-12fe-43d5-a7d8-f536d6f78479)
 
+
+# App View 
+
+![image](https://github.com/AlkaloidWells/TodoApp/assets/55930366/963e3cba-015c-4943-ac0a-7c86ec7ebe6f)
+
 Overall Architecture
 The Todo app follows a simple architecture, where the front-end (HTML, CSS, and
 JavaScript) handles the user interface, user interactions, and manages the tasks data.
@@ -39,5 +44,5 @@ Deployment:
 The application was deployed on my local host
 Key
 
-![image](https://github.com/AlkaloidWells/TodoApp/assets/55930366/963e3cba-015c-4943-ac0a-7c86ec7ebe6f)
+
 
